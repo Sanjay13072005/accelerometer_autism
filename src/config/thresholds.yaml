@@ -1,0 +1,3 @@
+sleep_motion_threshold: 0.02
+wake_motion_threshold: 0.08
+min_sleep_windows: 6   # 6 × 5 sec = 30 sec
