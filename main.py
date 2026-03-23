@@ -72,5 +72,5 @@ while True:
             "| Eyes open:", eyes_open,
             "| ALERT:", distressed
         )
-
+# time delay in seconds
     time.sleep(0.5)
