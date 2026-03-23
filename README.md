@@ -25,7 +25,7 @@ python main.py
 - ✅ **Detects Sleep/Awake** - Uses motion sensors + ML
 - ✅ **Eye Detection** - Monitors eye closure  
 - ✅ **Real-time Alerts** - Sends Telegram notifications
-- ✅ **Multi-sensor** - Accelerometer + Camera + Audio
+- ✅ **Multi-sensor** - Phone Accelerometer + Camera + Audio
 
 ---
 
